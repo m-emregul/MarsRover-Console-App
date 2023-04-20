@@ -49,7 +49,12 @@ MMRMMRMRRM
 
 ## Getting Started
 
-This is a console application written in C# programming language and on Visual Studio. 
+This is a console application written in C# programming language. 
+
+You can run this by using Visual Studio or a command line interface. 
+```
+dotnet run Program.cs
+```
 
 .Net 6.0 is required
 
